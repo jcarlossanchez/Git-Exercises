@@ -1,5 +1,7 @@
 Este es un archivo de ejemplo para practicar los comandos de Git por ejemplo le acabo de hacer unos cambios.
 
-Espero ser un master en esta herramienta.
+Espero ser un master en esta herramienta con el curso de Platzi.
 
 También quiero aprender ingles
+
+para tener un mejor sueldo, este curso lo estoy tomando desde platzi
