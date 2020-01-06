@@ -1,3 +1,5 @@
 Este es un archivo de ejemplo para practicar los comandos de Git por ejemplo le acabo de hacer unos cambios.
 
 Espero ser un master en esta herramienta.
+
+También quiero aprender ingles
